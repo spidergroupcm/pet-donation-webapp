@@ -87,6 +87,7 @@ Run `npm run dev` to run the project locally.
   "sort-by": "^1.2.0",
   "sweetalert2": "^11.15.10"
 },
+
 "devDependencies": {
   "@eslint/js": "^9.17.0",
   "@types/react": "^18.3.18",
